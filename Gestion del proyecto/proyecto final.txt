@@ -1,0 +1,63 @@
+tCiudades del futuro
+
+2 meses y medio desde 4-11
+
+5 reuniones durante todo el proyecto
+
+proyecto: Planificador de ruta turistica
+
+Requerimiento: fiware 
+
+orion => componente principal que envia
+y recibe datos
+
+Proximo paso
+
+reunion 2 : 10-15 dias a partir de hoy
+
+Entrega del proyecyo (ppt para vender el proyecto)
+
+-Nombre del proyecto
+-Objetivo 
+-Diagrama en alto nivel (tecnologias, componentes, flujo de la informacion)
+-Alcance
+-Volcar ideas que quedan afuera del alcance en la documentacion
+-Planificacion (etapas, metodologia, roles, fechas) => de aca surge el cronograma de reuniones
+====================
+
+Enunciado:
+Para posadas y los alrededores:
+
+Sistema que permite planificar la ruta turistica
+recursos fisicos, tiempo disponible, intereses, representando
+todo en un mapa
+
+filtros:
+tiempo (tiempo de traslado, tiempo de excursion),
+intereses,
+medio de transporte
+
+resultado : mapa con reseña, fotos, video
+
+-Carga de los datos:
+
+app web abm de atractivos
+
+-Recopilar datos del turista: demografia, intereses
+(a donde va y que es lo que hace)
+
+
+-Al logurarse hace 5/6 preguntas parar armar un perfil
+
+-Reportes
+
+
+==================
+
+fireware usa smart data models
+
+
+===================
+
+
+
